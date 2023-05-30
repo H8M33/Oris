@@ -1,0 +1,7 @@
+jar.enabled = true
+war.enabled = false
+
+ext {
+    swagger2Version = '2.9.2'
+    swagger2ModelsAndAnotationsVersion = '1.5.21'
+}
